@@ -172,30 +172,31 @@
 /* our deal area end */
 
 /* menu area start */
-
-.menu-week {
-    margin-top: px;
-}
 .menu-div {
-    padding: 0px 70px 0px 10px;
+    margin-top: 80px;
 }
-.menu-img {
-    width: ;
-    height: ;
+.menu-img-week {
+    width: 600px;
+    height: 600px;
+}
+.menu-week-data {
+    padding: 20px 20px 20px 40px;
 }
 .mh-3 {
     font: 12px;
     letter-spacing: 3px;
     color: var(--red);
     letter-spacing: 5px;
-    margin-bottom: px;
+    margin-bottom: 20px;
     
 }
 .mh-2 {
-    font: 40px;
+    font-size: 40px;
 }
 .m-p {
-    padding: 0px 200px 0px 0px;
+    color: var(--gray);
+    padding: 30px 0px 30px 0px;
+    line-height: 25px;
     letter-spacing: 2px;
     font: 16px;
 }
@@ -219,23 +220,23 @@
 /* footer area start */
 
 .footer-div1 {
-    padding: 0px 50px 0px 0px;
+    padding: 0px 50px 0px 80px;
 }
 .footer-div2 {
-    padding: 0px 110px 0px 0px;
+    padding: 0px 180px 30px 0px;
 }
 .footer-div3 {
-    padding: 0px 40px 0px 30px;
+    padding: 0px 140px 30px 30px;
 }
 .footer-div4 {
-    padding: 0px 60px 0px 0px;
+    padding: 0px 100px 30px 0px;
 }
 .main-footer {
     padding: 70px 15px 0px;
 }
 .h3-footer {
     font-size: 16px;
-    padding: 0px 0px 24px;
+    padding: 0px 0px 20px;
 }
 .footer-link {
     font-size: 15px;
@@ -263,11 +264,11 @@
 }
 .deep-footer {
     padding: 0px 0px 40px;
-    border: 1px solid var(--gray);
+    /* border: 1px solid var(--gray); */
 }
 .deep-footer {
     gap: 490px;
-    padding: 5px 0px 10px 0px;
+    padding: 15px 0px 10px 0px;
 }
 
 /* footer area end */
